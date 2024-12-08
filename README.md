@@ -1,2 +1,2 @@
-# test_pyladies
+# Pyladies Bioinfo
 Exemplo de como criar um repositório
